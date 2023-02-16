@@ -7,6 +7,9 @@ I have included several screenshots of the smart contract interactions.<br>
 The screenshots include red selected areas with relevant data.<br>
 
 
+### Choosing VM to depoly contract
+![remix_vm](/Execution_Results/remix_VMs.png)
+
 ### Setting account addresses
 ![set_accounts](/Execution_Results/set_account_addresses.png)
 
