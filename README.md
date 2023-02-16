@@ -34,9 +34,14 @@ The screenshots include red selected areas with relevant data.<br>
 ### Verification of 5 ETH withdrawal
 ![withdraw_5verify](/Execution_Results/withdraw5eth_verify.png)
 
+### Last Withdrawal Amount and Address
+![lastwithdraw5](/Execution_Results/lastwithdraw5.png)
+
 ### Withdraw 10 ETH
 ![withdraw_10](/Execution_Results/withdraw10eth.png)
 
 ### Verification of 10 ETH withdrawal
 ![withdraw_10verify](/Execution_Results/withdraw10eth_verify.png)
 
+### Last Withdrawal Amount and Address
+![lastwithdraw10](/Execution_Results/lastwithdraw10.png)
